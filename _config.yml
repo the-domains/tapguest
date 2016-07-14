@@ -1,0 +1,14 @@
+layout_spectrum: 0.7296636851970106
+typography_spectrum: 0.8414795324206352
+color:
+  brandStrength: 0.020956601481884718
+  lightness: 0.9657322990242392
+  saturation: 0.09529341803863645
+  rhythmicContrast: 0.364913139725104
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+name: TapGuest
